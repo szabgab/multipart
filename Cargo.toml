@@ -12,9 +12,9 @@ description = "A backend-agnostic extension for HTTP libraries that provides sup
 
 keywords = ["form-data", "hyper", "iron", "http", "upload"]
 
-repository = "http://github.com/bradfier/multipart-2021"
+repository = "https://github.com/bradfier/multipart-2021"
 
-documentation = "http://docs.rs/multipart-2021/"
+documentation = "https://docs.rs/multipart-2021/"
 
 license = "MIT OR Apache-2.0"
 
